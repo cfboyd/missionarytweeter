@@ -1,0 +1,22 @@
+{
+  "name": "missionarytweeter",
+  "version": "0.1.0",
+  "description": "tweet bot promoting cool sex",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "missionary",
+    "position",
+    "sex"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5",
+    "twitter": "^1.7.0"
+  }
+}
