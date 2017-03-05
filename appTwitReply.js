@@ -11,10 +11,10 @@ var responses =
 ]
 
 var T = new Twit({
-  consumer_key: 'aMnxMOMJC17OqasOQD0ZmbQhI',
-  consumer_secret: 'y5v9ip5WJzeyQn26UQNzOwzLPIIyinI52vVs9i8uiTsIm55lTo',
-  access_token: '838196933403406336-2hIVo8sTFLgmu0XL4g8jkUuI8rgJwFw',
-  access_token_secret: 'hXOJMs4evEDKlKEKsVpAqWtu4ODqeskhiWV2QdnYvY6xU'
+  consumer_key: 'xxxxxxxxxxxxxxxxxxx',
+  consumer_secret: 'xxxxxxxxxxxxxxxx',
+  access_token: 'xxxxxxxxxxxxxxxxxx',
+  access_token_secret: 'xxxxxxxxxxxxxxxxx'
 })
 
 //i dont remmeber why i did this
